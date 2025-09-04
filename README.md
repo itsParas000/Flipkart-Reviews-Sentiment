@@ -1,5 +1,4 @@
-# Project title  
-Flipkart Reviews Sentiment Analysis
+# Project title:  Flipkart Reviews Sentiment Analysis using Python
 --
 
 # mporting Libraries and Dataset:  
