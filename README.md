@@ -2,8 +2,9 @@
 Flipkart Reviews Sentiment Analysis
 --
 
-# Importing Libraries and Dataset:  
+# mporting Libraries and Dataset:  
 Load the necessary Python libraries like pandas, matplotlib, seaborn, scikit-learn, and WordCloud. The project uses the Flipkart Reviews Dataset.
+
 --
 
 # Data Preprocessing:  
