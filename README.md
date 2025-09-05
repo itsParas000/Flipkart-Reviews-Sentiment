@@ -16,27 +16,30 @@ The project uses the Flipkart Reviews Dataset.
 # Data Preprocessing:  
 Clean the dataset by removing missing and duplicate values. The text is converted to lowercase, and stopwords, punctuation, and special characters are removed. Sentiment labels are encoded (Positive = 1, Negative = 0). The data is then tokenized using TF-IDF.  
 
-<img width="926" height="142" alt="image" src="https://github.com/user-attachments/assets/b429d8b1-0714-419c-92c7-654ec4746adf" />
-
+<img width="930" height="135" alt="image" src="https://github.com/user-attachments/assets/281375ba-a281-490a-9f5a-c657b040c7fa" />
 
 
 # Exploratory Data Analysis (EDA):  
 Visualize the sentiment distribution using count plots and create a word cloud to identify common words in positive and negative reviews.  
 # Sentiment Distribution  
 
-<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/b46c5e38-37ca-4d3a-b49a-9f1f8f33a1f6" />  
+<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/ccfdbdb1-945a-41c4-8fba-b6742c6b15be" />
+ 
 
 # WordCloud  
 
-<img width="1182" height="306" alt="image" src="https://github.com/user-attachments/assets/1dc3f7c3-7d14-49e9-9f31-338c12e2f077" />  
+<img width="1182" height="306" alt="image" src="https://github.com/user-attachments/assets/a2795c1b-bdee-4895-a0bf-19d1f6456d4f" />
+  
 
 # Review Length vs Sentiment  
 
-<img width="695" height="470" alt="image" src="https://github.com/user-attachments/assets/da4e5a08-8272-42fe-ba55-d3c8b9e8e8a1" />  
+<img width="695" height="470" alt="image" src="https://github.com/user-attachments/assets/5cc4cbe1-dec6-4faa-b1ba-dce4f1aa078a" />
+
 
 # Confusion Matrix  
 
-<img width="518" height="393" alt="image" src="https://github.com/user-attachments/assets/b1103d83-6f26-46cd-8f82-7e46ffbcb67a" />  
+<img width="518" height="393" alt="image" src="https://github.com/user-attachments/assets/f0b82d48-d0f6-4adb-83e9-b98b357df06c" />
+
 
 
 
@@ -46,10 +49,11 @@ Visualize the sentiment distribution using count plots and create a word cloud t
 # Model Training and Selection:  
 Train different machine learning models, including Logistic Regression, Naïve Bayes, Random Forest Classifier, and Support Vector Machine (SVM), and compare their performance using accuracy and F1-score.  
 
-<img width="596" height="317" alt="image" src="https://github.com/user-attachments/assets/6c165614-61b0-45e3-bdd3-0b4680c8e6e8" />  
+<img width="580" height="312" alt="image" src="https://github.com/user-attachments/assets/926958d6-20ab-4dab-8f63-799a4a08fa9a" />
+
 
 
 # Model Evaluation and Prediction:  
 Evaluate the best model using accuracy score, precision, recall, F1-score, and a confusion matrix. The final model can classify new reviews as positive or negative.  
 
-<img width="542" height="236" alt="image" src="https://github.com/user-attachments/assets/fb9c4449-ebc2-4c05-86b3-45c45304a206" />
+<img width="546" height="242" alt="image" src="https://github.com/user-attachments/assets/1ad1040a-836d-4c25-85ff-638a757a3d90" />
