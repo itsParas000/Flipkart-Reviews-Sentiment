@@ -59,3 +59,6 @@ Train different machine learning models, including Logistic Regression, Naïve B
 Evaluate the best model using accuracy score, precision, recall, F1-score, and a confusion matrix. The final model can classify new reviews as positive or negative.  
 
 <img width="546" height="242" alt="image" src="https://github.com/user-attachments/assets/1ad1040a-836d-4c25-85ff-638a757a3d90" />
+
+# Conclusion
+This project successfully built a system to automatically classify Flipkart reviews. The best model, a Random Forest classifier, achieved an accuracy of <strong>93.54%</strong>, providing a fast and effective way for businesses to understand customer feedback. Future improvements could involve using advanced models like LSTMs or Transformers for even higher accuracy.
