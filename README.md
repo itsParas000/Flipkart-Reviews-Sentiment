@@ -1,5 +1,4 @@
-# Project title:  
-##Flipkart Reviews Sentiment Analysis using Python  
+# Project title:  Flipkart Reviews Sentiment Analysis using Python  
 
 ## Objective  
 This project builds a machine learning model to classify Flipkart product reviews as positive or negative based on user sentiment.  
